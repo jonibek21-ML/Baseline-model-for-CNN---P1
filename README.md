@@ -96,9 +96,7 @@ Project3-checkpoint.ipynb
 
 | Model | Accuracy |
 | ----- | -------- |
-| CNN   | XX%      |
-
-(*Natijani o‘zing qo‘shasan*)
+| CNN   | 83%      |
 
 ## 📌 O‘rganilgan narsalar
 
